@@ -1,0 +1,13 @@
+{
+  "name": "vcard-personal-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://rohanreddy1201.github.io/portfolio-website",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "devDependencies": {
+    "eslint": "^9.7.0",
+    "gh-pages": "^6.1.1"
+  }
+}
