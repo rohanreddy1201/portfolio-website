@@ -1,44 +1,57 @@
-# vCard - Personal portfolio
+# Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+This is my personal portfolio website showcasing my projects, skills, and experience in machine learning and AI automated applications. The website is designed to provide a detailed view of my work, accomplishments, and professional journey.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## Features
 
-## Demo
+- **Responsive Design:** The website is fully responsive and works seamlessly on all devices.
+- **Project Showcase:** Highlights my key projects in machine learning and AI automated applications.
+- **Contact Form:** Visitors can send messages directly through the contact form.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## Technologies Used
 
-## Prerequisites
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **GitHub Pages**
 
-Before you begin, ensure you have met the following requirements:
+## Projects
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### Machine Learning Projects
+1. **[S&P Stock Price Predictor](https://github.com/rohanreddy1201/S-P-Stock-Price-Predictor):** A model to predict S&P 500 stock prices using historical data.
+2. **[Diabetes Onset Predictor](https://github.com/rohanreddy1201/Diabetes-Onset-Predictor):** Predicts the onset of diabetes using various patient features.
+3. **[Real Estate Price Predictor](https://github.com/rohanreddy1201/Real-Estate-Price-Predictor):** Estimates real estate prices based on market trends.
+4. **[Housing Price Predictor](https://github.com/rohanreddy1201/Housing-Price-Predictor):** Predicts housing prices using detailed datasets.
 
-## Installing vCard
+### AI Automated Applications
+1. **[Automated Quiz Generator](https://github.com/rohanreddy1201/gemini-quizify):** Generates quizzes automatically from input materials using NLP.
+2. **[Automated YT Video Analyzer](https://github.com/rohanreddy1201/gemini-dynamo):** Analyzes YouTube videos for sentiment, keywords, and more using AI.
+3. **[Image Generator using CIFAR](https://github.com/rohanreddy1201/Image-Generator-CIFAR):** Generates images based on the CIFAR dataset using GANs.
 
-To install **vCard**, follow these steps:
+## How to Run Locally
 
-Linux and macOS:
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/rohanreddy1201/portfolio-website.git
+    ```
 
+2. **Navigate to the project directory:**
+    ```bash
+    cd portfolio-website
+    ```
+
+3. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+4. **Start the development server:**
+    ```bash
+    npm start
+    ```
+
+## Deployment
+
+The website is deployed using GitHub Pages. To deploy, run:
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+npm run deploy
