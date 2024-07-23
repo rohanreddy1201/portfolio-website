@@ -14,6 +14,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 - **CSS3**
 - **JavaScript**
 - **GitHub Pages**
+- **Streamlit Sharing**
 
 ## Projects
 
