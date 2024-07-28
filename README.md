@@ -27,7 +27,9 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 ### AI Automated Applications
 1. **[Automated Quiz Generator](https://github.com/rohanreddy1201/gemini-quizify):** Generates quizzes automatically from input materials using NLP.
 2. **[Automated YT Video Analyzer](https://github.com/rohanreddy1201/gemini-dynamo):** Analyzes YouTube videos for sentiment, keywords, and more using AI.
-3. **[Image Generator using CIFAR](https://github.com/rohanreddy1201/Image-Generator-CIFAR):** Generates images based on the CIFAR dataset using GANs.
+3. **[Financial Dashboard Integrated with AI](https://github.com/rohanreddy1201/Financial-Dashboard):** Generates Financial Analysis using AI integration
+4. **[AI Chatbot](https://github.com/rohanreddy1201/AI-Chatbot):** Generates Financial Analysis using AI integration
+5. **[Image Generator using CIFAR](https://github.com/rohanreddy1201/Image-Generator-CIFAR):** Generates images based on the CIFAR dataset using GANs.
 
 ## How to Run Locally
 
