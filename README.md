@@ -1,6 +1,6 @@
 # 🚀 Rohan Reddy Portfolio
 
-A blazing-fast, modern portfolio platform built using **React 18**, **Next.js 14**, **Tailwind CSS**, and **GitHub Pages** for deployment. Originally inspired by `bjornmelin-platform-io`, this project has been customized and rebuilt to reflect my work as an **AI Cloud Engineer** focused on **AI/ML applications**, **cloud-native architectures**, and **production-grade deployment** — all without AWS dependency.
+A blazing-fast, modern portfolio platform built using **React 18**, **Next.js 14**, **Tailwind CSS**, and **GitHub Pages** for deployment. Originally inspired by `bjornmelin-platform-io`, this project has been customized and rebuilt to reflect my work as an **AI Cloud Engineer** focused on **AI/ML applications**, **cloud-native architectures**, and **production-grade deployment**
 
 ![GitHub](https://img.shields.io/github/followers/rohanreddy1201?style=social)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
