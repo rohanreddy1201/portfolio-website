@@ -3,21 +3,21 @@ import { Project } from "@/types/project";
 export const projectsData: Project[] = [
   {
     id: "1",
-    title: "DrugEffectML: Predicting Adverse Drug Reactions",
+    title: "ADRPredictor: Adverse Drug Reaction Risk Analyzer",
     description:
-      "⚕️ DrugEffectML is a core ML model that predicts adverse drug reactions (ADRs) by training on patient history and pharmaceutical datasets. It helps clinicians avoid risky prescriptions.",
+      "🧠 ADRPredictor uses real-world FAERS data and machine learning to predict serious adverse drug reaction (ADR) risks. Includes local LLM-powered explanations via Ollama.",
     image: "/projects/adrpredictor.png",
     technologies: [
       "scikit-learn",
-      "XGBoost",
-      "Pandas",
-      "Seaborn",
-      "PubMed Data",
-      "Jupyter",
+      "Streamlit",
+      "Ollama",
+      "SHAP",
+      "FAERS",
+      "Python",
     ],
     category: "Machine Learning",
     links: {
-      github: "https://github.com/rohanreddy1201/drug-effect-ml",
+      github: "https://github.com/rohanreddy1201/adrpredictor",
     },
     featured: true,
   },
